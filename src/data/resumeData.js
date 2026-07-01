@@ -184,7 +184,7 @@ export const education = [
   {
     degree: 'Bachelor of Engineering — Information Science and Engineering',
     institution: 'Cambridge Institute of Technology, Bengaluru',
-    score: 'CGPA: 8.7 / 10',
+    score: 'CGPA: 8.9 / 10',
     duration: '2022 – 2026',
   },
   {
